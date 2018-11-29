@@ -12,22 +12,25 @@ The following **required** functionality is complete:
 
 *[* ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
+The additional functionality:
+Added app icon image and launch screen. 
+
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/SL6dkscjLck' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had challenges in the segmented control where it wouldn't launch because I didn't select any one of them. My application wouldn't work, but I went through my code and found out the bug and fixed it. 
+I had challenges in the segmented control where it wouldn't launch because I didn't select any one of them. My application wouldn't work, but I went through my code and found out the bug and fixed it. I also had trouble with sizing the icon, but fixed it.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2018 Ayesha Khan
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
