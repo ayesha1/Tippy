@@ -18,9 +18,7 @@ Added app icon image and launch screen.
 
 ## Video Walkthrough 
 
-<iframe width="420" height="315"
-src="https://youtu.be/SL6dkscjLck">
-</iframe>
+https://youtu.be/SL6dkscjLck
 
 ## Notes
 
