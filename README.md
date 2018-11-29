@@ -18,7 +18,7 @@ Added app icon image and launch screen.
 
 ## Video Walkthrough 
 
-https://youtu.be/SL6dkscjLck
+<img src='https://imgur.com/XgDPvLe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
