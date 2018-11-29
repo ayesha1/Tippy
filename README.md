@@ -18,7 +18,7 @@ Added app icon image and launch screen.
 
 ## Video Walkthrough 
 
-<img src='https://imgur.com/XgDPvLe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/2siao45zyZVPoZhr1C/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
