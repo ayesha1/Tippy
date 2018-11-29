@@ -18,11 +18,9 @@ Added app icon image and launch screen.
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://youtu.be/SL6dkscjLck' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<iframe width="420" height="315"
+src="https://youtu.be/SL6dkscjLck">
+</iframe>
 
 ## Notes
 
