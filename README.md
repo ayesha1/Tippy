@@ -12,9 +12,6 @@ The following **required** functionality is complete:
 
 *[* ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-The following **optional** features are implemented:
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
 
 ## Video Walkthrough 
 
@@ -26,7 +23,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had challenges in the segmented control where it wouldn't launch because I didn't select any one of them. My application wouldn't work, but I went through my code and found out the bug and fixed it. 
 
 ## License
 
