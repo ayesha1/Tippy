@@ -24,6 +24,8 @@ Added app icon image and launch screen.
 
 I had challenges in the segmented control where it wouldn't launch because I didn't select any one of them. My application wouldn't work, but I went through my code and found out the bug and fixed it. I also had trouble with sizing the icon, but fixed it.
 
+Icon is not mines. It is from https://www.flaticon.com/free-icon/piggy-bank_138305#term=money&page=1&position=52
+
 ## License
 
 Copyright 2018 Ayesha Khan
